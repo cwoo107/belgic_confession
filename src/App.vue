@@ -55,7 +55,7 @@
       </b-col>
       <b-row>
         <b-col xs='4' offset-xs='4'>
-          <a href='#1'><unicon name="angle-down" fill='#DBE3EE' height="50" width="50" /></a>
+          <a href='#1'><unicon name="angle-down" fill='#EAEFF5' height="50" width="50" /></a>
         </b-col>
       </b-row>
     </b-container >
@@ -516,7 +516,7 @@ Finally we believe, according to the Word of God, when the time appointed by the
     <b-container fluid class='blue' style="padding-top:25px; padding-bottom:25px">
       <b-row >
         <b-col sm='4' offset-sm='4'>
-          <a href='https://github.com/cwoo107/belgic_confession' ><unicon name="github-alt" fill='#DBE3EE' height="50" width="50" /></a>
+          <a href='https://github.com/cwoo107/belgic_confession' ><unicon name="github-alt" fill='#EAEFF5' height="50" width="50" /></a>
           <!--<a href='https://vuejs.org' ><unicon name="vuejs-alt" fill='white' height="50" width="50"  /></a>-->
         </b-col>
       </b-row>
@@ -552,7 +552,7 @@ export default {
 
 .blue {
   background: #4F4A51;
-  color: #DBE3EE;
+  color: #EAEFF5;
 }
 
 h1, h2 {
