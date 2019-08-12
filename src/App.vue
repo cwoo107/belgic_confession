@@ -3,7 +3,7 @@
     <b-container fluid class='blue' >
       <b-row>
         <b-col class="blue" xs='12'>
-          <img src="./assets/belgic_confession.jpg"  width='1200' style="padding-top: 100px;position: relative;">
+          <img src="./assets/belgic_confession.png"  width='1200' style="padding-top: 100px;position: relative;">
         </b-col>
       </b-row>
       <b-row id='title1'>
